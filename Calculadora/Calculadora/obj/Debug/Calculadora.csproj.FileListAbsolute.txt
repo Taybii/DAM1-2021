@@ -1,0 +1,8 @@
+C:\Users\Isabel\Dropbox\Mi PC (LAPTOP-VLEVBB4B)\Documents\DAM1-2021\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Isabel\Dropbox\Mi PC (LAPTOP-VLEVBB4B)\Documents\DAM1-2021\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Isabel\Dropbox\Mi PC (LAPTOP-VLEVBB4B)\Documents\DAM1-2021\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Isabel\Dropbox\Mi PC (LAPTOP-VLEVBB4B)\Documents\DAM1-2021\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Isabel\Dropbox\Mi PC (LAPTOP-VLEVBB4B)\Documents\DAM1-2021\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Isabel\Dropbox\Mi PC (LAPTOP-VLEVBB4B)\Documents\DAM1-2021\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Isabel\Dropbox\Mi PC (LAPTOP-VLEVBB4B)\Documents\DAM1-2021\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Isabel\Dropbox\Mi PC (LAPTOP-VLEVBB4B)\Documents\DAM1-2021\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
