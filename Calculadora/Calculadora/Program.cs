@@ -25,6 +25,15 @@ namespace Calculadora
             int multiplicar = num1 * num2;
             Console.WriteLine("{0} x {1} = {2}", num1, num2, multiplicar);
 
+            if(num1 == num2)
+            {
+                Console.WriteLine("Els nombres {0} i {1} són iguals!", num1, num2);
+            }
+            else
+            {
+                Console.WriteLine("Els nombres {0} i {1} NO són iguals!", num1, num2);
+            }
+
         }
     }
 }
