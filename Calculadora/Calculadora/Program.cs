@@ -22,6 +22,12 @@ namespace Calculadora
             int restar = num1 - num2;
             Console.WriteLine("{0} - {1} = {2}", num1, num2, restar);
 
+            if (num1 > num2)
+                Console.WriteLine("El {0} és mes gran que el {1}", num1, num2);
+            else
+                Console.WriteLine("El {0} NO és més gran que el {1}", num1, num2);
+
+
         }
     }
 }
