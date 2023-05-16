@@ -18,6 +18,10 @@ namespace Calculadora
 
             int suma = num1 + num2;
             Console.WriteLine("{0} + {1} = {2}", num1, num2, suma);
+
+            int restar = num1 - num2;
+            Console.WriteLine("{0} - {1} = {2}", num1, num2, restar);
+
         }
     }
 }
