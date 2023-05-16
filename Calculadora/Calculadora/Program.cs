@@ -22,6 +22,9 @@ namespace Calculadora
             int restar = num1 - num2;
             Console.WriteLine("{0} - {1} = {2}", num1, num2, restar);
 
+            int multiplicar = num1 * num2;
+            Console.WriteLine("{0} x {1} = {2}", num1, num2, multiplicar);
+
         }
     }
 }
