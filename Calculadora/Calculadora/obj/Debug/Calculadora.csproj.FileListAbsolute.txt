@@ -1,0 +1,8 @@
+C:\Users\Edit\Documents\GitHub\DAM1-2021\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Edit\Documents\GitHub\DAM1-2021\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Edit\Documents\GitHub\DAM1-2021\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Edit\Documents\GitHub\DAM1-2021\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Edit\Documents\GitHub\DAM1-2021\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edit\Documents\GitHub\DAM1-2021\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Edit\Documents\GitHub\DAM1-2021\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Edit\Documents\GitHub\DAM1-2021\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

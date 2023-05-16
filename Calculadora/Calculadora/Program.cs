@@ -15,6 +15,9 @@ namespace Calculadora
 
             Console.WriteLine("Escriu un altre numero");
             int num2 = Convert.ToInt32(Console.ReadLine());
+
+            int suma = num1 + num2;
+            Console.WriteLine("{0} + {1} = {2}", num1, num2, suma);
         }
     }
 }
