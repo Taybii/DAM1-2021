@@ -25,6 +25,15 @@ namespace Calculadora
             int multiplicar = num1 * num2;
             Console.WriteLine("{0} x {1} = {2}", num1, num2, multiplicar);
 
+            int dividir = num1 / num2;
+            Console.WriteLine("{0} / {1} = {2}", num1, num2, dividir);
+
+            double elevar = Math.Pow(num1, num2);
+            Console.WriteLine("El {0} elevat al {1} és igual a {2}", num1, num2, elevar);
+
+            int residu = num1 % num2;
+            Console.WriteLine("El residu del {0} dividit pel número {1} és igual a {2}", num1, num2, residu);
+
         }
     }
 }
