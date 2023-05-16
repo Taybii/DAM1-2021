@@ -33,6 +33,20 @@ namespace Calculadora
 
             int residu = num1 % num2;
             Console.WriteLine("El residu del {0} dividit pel número {1} és igual a {2}", num1, num2, residu);
+            
+            if (num1 > num2)
+                Console.WriteLine("El {0} és mes gran que el {1}", num1, num2);
+            else
+                Console.WriteLine("El {0} NO és més gran que el {1}", num1, num2);
+            
+            if(num1 == num2)
+            {
+                Console.WriteLine("Els nombres {0} i {1} són iguals!", num1, num2);
+            }
+            else
+            {
+                Console.WriteLine("Els nombres {0} i {1} NO són iguals!", num1, num2);
+            }
 
         }
     }
